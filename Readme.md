@@ -1,5 +1,5 @@
 ```bash
-helm repo add phonebook-repo https://raw.githubusercontent.com/james-clarusway/phonebook-repo/main
+helm repo add phonebook-repo https://raw.githubusercontent.com/mosmant/phonebook-repo/main
 helm install phonebook-app phonebook-repo/phonebook-chart
 ```
 
